@@ -10,7 +10,7 @@ Run these from the repository root of a fresh clone, in this order:
 
 ```
 pip install -r requirements.txt
-python generate_data.py          # prints 24 1224 48
+python generate_data.py         
 python part_a_clean_eda.py
 python part_b_regression.py
 python part_c_classification.py
